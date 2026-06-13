@@ -1,0 +1,27 @@
+# Pliki generowane przez Visual Studio / .NET - NIE wrzucamy ich do repozytorium
+
+# Foldery wyników kompilacji
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Pliki użytkownika Visual Studio (lokalne ustawienia)
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Pamięć podręczna / pliki tymczasowe
+*.cache
+*.tmp
+*.log
+
+# Lokalna konfiguracja narzędzi
+.claude/
+
+# Stary, niezwiązany projekt C++
+zad4/
